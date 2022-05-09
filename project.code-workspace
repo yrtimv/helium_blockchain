@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "Helium Blockchain"
+    }
+  ],
+  "settings": {
+    "python.pythonPath": ".venv/bin/python",
+    "files.exclude": {
+      "**/__pycache__": true,
+      ".venv": true,
+      ".vscode": true
+    }
+  }
+}
